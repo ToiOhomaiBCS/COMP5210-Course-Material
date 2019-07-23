@@ -41,7 +41,7 @@ Have fun! Your feedback is important if you have any concerns about the course p
 # Software Development Paradigms
 
 * Agile vs Waterfall
-* Rapid Application Development
+* [Rapid Application Development] (https://blog.capterra.com/what-is-rapid-application-development/)
 
 # Coding Standards
 
