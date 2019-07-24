@@ -39,3 +39,6 @@ To find out how to setup your first GitHub Pages watch [this video](https://yout
 # Relation to the assesment
 
 For your first assignment you are to create website using GitHub pages and one of their existing themes. For the second assignment you are to code your own theme using the same content that you are using in assignment 1. So the take away from this is that organising your content is very important. It is separate from the website layout and although the content and layout are mixed in the final product they are delivered separately.
+
+# Just do it!
+ [TGA Practice Exercises](https://docs.google.com/document/d/1a1DQSCQzNuUGlnQQjBepKMw4P_HXYAxppNOZGCOefqo/edit?usp=sharing)
