@@ -95,6 +95,8 @@ To learn the basic git commands you can look at [these videos](https://git-scm.c
 
 Another good video to watch is [this one](https://www.youtube.com/watch?v=SWYqp7iY_Tc) that shows you how to install git on windows and give you a basic overview.
 
+Finally you if like a full course you can complete the [Learn git codecademy course](https://www.codecademy.com/learn/learn-git)
+
 ## TIP - BACKUP YOUR WORK
 
 Although the computers in the lab allow you to do all the work you need, **DO NOT RELY ON THEM TO STORE YOUR DATA**!!
